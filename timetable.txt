@@ -1,0 +1,4 @@
+MONDAY   ,TUESDAY   ,WEDNESDAY,THURSDAY,FRIDAY
+physics   ,maths   ,physics   ,chemistry,computer
+chemistry,physics   ,maths   ,computer,computer
+maths   ,chemistry,physics   ,maths   ,chemistry
